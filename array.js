@@ -1,8 +1,7 @@
-// let varName="something";
+
 let arr=[1,2,3,4,5];
-// console.log("arr",arr);
 let words=["i","am", "a", "sentence"];
-// console.log("words arr",words);
+
 
 
 // for(let i=0;i<arr.length;i++){
