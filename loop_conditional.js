@@ -5,12 +5,6 @@
  *  -> for , while , Do while  
  * **/ 
 
-
-// let number=11;
-
-
-// //  if the number is even 
-
 // if(number%2==0){
 //     console.log(number,"Number is Even");
 // }else {
